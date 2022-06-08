@@ -1,5 +1,0 @@
-I made this over like 4 hours, beggers cannot be choosers and it works perfect for me. Also the code is helllla sloppy, sorry. 
-
-Best use is to intert into agent drive. create a shortcut to your desktop or favorite browser. Have fun.
-
-If you want to edit the output text go to jquery.js and edit there.
